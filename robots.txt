@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lineyhort.github.io/sitemap.html.gz
+Sitemap: https://lineyhort.github.io/app/sitemap.html.gz
+Sitemap: https://lineyhort.github.io/assets/sitemap.html.gz
+Sitemap: https://lineyhort.github.io/css/sitemap.html.gz
+Sitemap: https://lineyhort.github.io/data/sitemap.html.gz
+Sitemap: https://lineyhort.github.io/includes/sitemap.html.gz
+Sitemap: https://lineyhort.github.io/item/sitemap.html.gz
+Sitemap: https://lineyhort.github.io/src/sitemap.html.gz
